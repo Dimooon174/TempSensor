@@ -4,7 +4,7 @@
 Задание:
 
 .Задание
-image::photos/Zadanie.png[]
+image::Photos/Zadanie.png[]
 
 
 ===  Выолнение задания
